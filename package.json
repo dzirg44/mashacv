@@ -1,0 +1,43 @@
+{
+  "name": "curriculum_vitae",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://dzirg44.github.io/mashacv/build",
+  "dependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-test-renderer": "^16.3.1",
+    "font-awesome": "^4.7.0",
+    "react-vertical-timeline-component": "^2.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.10.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "gh-pages": "^1.1.0",
+    "npm-run-all": "^4.1.2",
+    "react-scripts": "^1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test:lint:js": "eslint --ext=js --ext=jsx .",
+    "test:unit": "react-scripts test --env=jsdom --updateSnapshot --coverage",
+    "test": "run-s test:**",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!src/index.js",
+      "!src/registerServiceWorker.js"
+    ]
+  }
+}
