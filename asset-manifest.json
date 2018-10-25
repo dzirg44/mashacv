@@ -1,7 +1,16 @@
 {
-  "main.css": "static/css/main.22b6c680.css",
-  "main.css.map": "static/css/main.22b6c680.css.map",
-  "main.js": "static/js/main.3e7765d8.js",
-  "main.js.map": "static/js/main.3e7765d8.js.map",
-  "static/media/image.jpg": "static/media/image.9736541a.jpg"
+  "main.css": "/mashacv/static/css/main.cafeda49.chunk.css",
+  "main.js": "/mashacv/static/js/main.93ce80d6.chunk.js",
+  "main.js.map": "/mashacv/static/js/main.93ce80d6.chunk.js.map",
+  "static/css/1.d8cd5f59.chunk.css": "/mashacv/static/css/1.d8cd5f59.chunk.css",
+  "static/js/1.3eb2b9e1.chunk.js": "/mashacv/static/js/1.3eb2b9e1.chunk.js",
+  "static/js/1.3eb2b9e1.chunk.js.map": "/mashacv/static/js/1.3eb2b9e1.chunk.js.map",
+  "runtime~main.js": "/mashacv/static/js/runtime~main.30edd904.js",
+  "runtime~main.js.map": "/mashacv/static/js/runtime~main.30edd904.js.map",
+  "static/css/main.cafeda49.chunk.css.map": "/mashacv/static/css/main.cafeda49.chunk.css.map",
+  "static/media/image.png": "/mashacv/static/media/image.2c620d1c.png",
+  "static/css/1.d8cd5f59.chunk.css.map": "/mashacv/static/css/1.d8cd5f59.chunk.css.map",
+  "index.html": "/mashacv/index.html",
+  "precache-manifest.14f9759f3ec5eb447f572113765fe001.js": "/mashacv/precache-manifest.14f9759f3ec5eb447f572113765fe001.js",
+  "service-worker.js": "/mashacv/service-worker.js"
 }
