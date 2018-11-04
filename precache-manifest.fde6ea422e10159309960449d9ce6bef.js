@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/mashacv/static/js/runtime~main.30edd904.js"
   },
   {
-    "revision": "4eb91b389e81f69ad3bc",
-    "url": "/mashacv/static/js/main.4eb91b38.chunk.js"
+    "revision": "1d31660de08e5e0b9669",
+    "url": "/mashacv/static/js/main.1d31660d.chunk.js"
   },
   {
     "revision": "3eb2b9e11dc2b4ca7651",
     "url": "/mashacv/static/js/1.3eb2b9e1.chunk.js"
   },
   {
-    "revision": "4eb91b389e81f69ad3bc",
+    "revision": "1d31660de08e5e0b9669",
     "url": "/mashacv/static/css/main.cafeda49.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/mashacv/static/css/1.d8cd5f59.chunk.css"
   },
   {
-    "revision": "25f8abf151d9a9e44e02e75e5e7187b6",
+    "revision": "af606a96ce69f63ba6b1af4a40cc6782",
     "url": "/mashacv/index.html"
   }
 ];

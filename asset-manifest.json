@@ -1,7 +1,7 @@
 {
   "main.css": "/mashacv/static/css/main.cafeda49.chunk.css",
-  "main.js": "/mashacv/static/js/main.4eb91b38.chunk.js",
-  "main.js.map": "/mashacv/static/js/main.4eb91b38.chunk.js.map",
+  "main.js": "/mashacv/static/js/main.1d31660d.chunk.js",
+  "main.js.map": "/mashacv/static/js/main.1d31660d.chunk.js.map",
   "static/css/1.d8cd5f59.chunk.css": "/mashacv/static/css/1.d8cd5f59.chunk.css",
   "static/js/1.3eb2b9e1.chunk.js": "/mashacv/static/js/1.3eb2b9e1.chunk.js",
   "static/js/1.3eb2b9e1.chunk.js.map": "/mashacv/static/js/1.3eb2b9e1.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/image.jpg": "/mashacv/static/media/image.9736541a.jpg",
   "static/css/main.cafeda49.chunk.css.map": "/mashacv/static/css/main.cafeda49.chunk.css.map",
   "index.html": "/mashacv/index.html",
-  "precache-manifest.61bb60a8f1f75b703e58e6a4a0ae5adc.js": "/mashacv/precache-manifest.61bb60a8f1f75b703e58e6a4a0ae5adc.js",
+  "precache-manifest.fde6ea422e10159309960449d9ce6bef.js": "/mashacv/precache-manifest.fde6ea422e10159309960449d9ce6bef.js",
   "service-worker.js": "/mashacv/service-worker.js"
 }
